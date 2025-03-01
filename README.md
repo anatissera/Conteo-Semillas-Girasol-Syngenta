@@ -1,7 +1,7 @@
 En la carpeta data se encuentran datos de 19 imágenes con su respectivo conteo y 50 imágenes cuyo conteo se encuentra inconcluso. 
 Los datos fueron truncados para acomodarse a las necesidades del modelo. Las imágenes se encuentran en formato .jpg y cuadradas. 
 Los nombres se corresponden con el id identificado en el csv para data_19 y con el nombre escrito arriba de cada girasol en su respectiva imagen para data_50. 
-Los nombres de las imágenes como archivo deben contener el id con el que se las identifica en los csv y estar en formato cuadrado, captando la totalidad de la torta.}
+Los nombres de las imágenes como archivo deben contener el id con el que se las identifica en los csv y estar en formato cuadrado, captando la totalidad de la torta.
 
 En la carpeta análsis se identifican las inconsistencias que hay entre las carpetas de imágenes y archivos de conteo.
 
